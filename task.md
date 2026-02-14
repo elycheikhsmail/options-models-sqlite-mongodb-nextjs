@@ -1,0 +1,1 @@
+puis tursor en lecture seul pour les utlisateur non admin

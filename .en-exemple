@@ -1,0 +1,6 @@
+NEXT_PUBLIC_BASE_API=/api/mongodb/
+ 
+#NEXT_PUBLIC_BASE_API=/api/sqlite/
+MONGODB_URI="mongodb://127.0.0.1:27017"
+# If mongodb+srv fails with querySrv/ECONNREFUSED on your DNS resolver,
+# use the Atlas standard connection string (mongodb://host1,host2,host3...).

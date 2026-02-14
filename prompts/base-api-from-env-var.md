@@ -1,0 +1,1 @@
+dans les pages : src\app\admin\options\page.tsx et src\app\admin\lieux\page.tsx il faut que la valeur de baseApi (comme const baseApi = "/api/mongodb/"; ) soit recuperer depuis un variable d'environement
