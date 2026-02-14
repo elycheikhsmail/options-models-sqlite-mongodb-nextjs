@@ -1,0 +1,71 @@
+id,name,nameAr,priority,tag,depth,parentID
+1,Adrar,أدرار,1,wilaya,1,
+2,Assaba,العصابة,2,wilaya,1,
+3,Brakna,الٙبراكنة,3,wilaya,1,
+4,Dakhlet Nouadhibou,داخلت نواذيبو,4,wilaya,1,
+5,Gorgol,كوركول,5,wilaya,1,
+6,Guidimaka,كيدي ماغه,6,wilaya,1,
+7,Hodh Ech Chargui,الحوض الشرقي,7,wilaya,1,
+8,Hodh El Gharbi,الحوض الغربي,8,wilaya,1,
+9,Inchiri,إينشيري,9,wilaya,1,
+10,Nouakchott,نواكشوط,10,wilaya,1,
+11,Tagant,تكانت,11,wilaya,1,
+12,Tiris Zemmour,تيرس زمور,12,wilaya,1,
+13,Trarza,اترارزة,13,wilaya,1,
+101,Atar,أطار,1,moughataa,2,1
+102,Chinguetti,شنقيط,2,moughataa,2,1
+103,Ouadane,وادان,3,moughataa,2,1
+104,Aoujeft,أوجفت,4,moughataa,2,1
+201,Kiffa,كيفه,1,moughataa,2,2
+202,Guerou,كرو,2,moughataa,2,2
+203,Barkéol,باركيول,3,moughataa,2,2
+204,Boumdeid,بومديد,4,moughataa,2,2
+205,Kankossa,كنكوصه,5,moughataa,2,2
+301,Aleg,ألاك,1,moughataa,2,3
+302,Boghé,بوغي,2,moughataa,2,3
+303,Bababé,بابابي,3,moughataa,2,3
+304,M’Bagne,امبان,4,moughataa,2,3
+305,Magta-Lahjar,مقطع لحجار,5,moughataa,2,3
+401,Nouadhibou,نواذيبو,1,moughataa,2,4
+402,Chami,الشامي,2,moughataa,2,4
+501,Kaédi,كيهيدي,1,moughataa,2,5
+502,Maghama,مقامه,2,moughataa,2,5
+503,Mbout,مبوت,3,moughataa,2,5
+504,Monguel,مونكل,4,moughataa,2,5
+601,Sélibaby,سيلبابي,1,moughataa,2,6
+602,Ould Yengé,ولد ينج,2,moughataa,2,6
+603,Ghabou,غابو,3,moughataa,2,6
+604,Wompou,وامبو,4,moughataa,2,6
+701,Néma,النعمة,1,moughataa,2,7
+702,Timbedra,تمبدغه,2,moughataa,2,7
+703,Oualata,ولاتة,3,moughataa,2,7
+704,Amourj,امرج,4,moughataa,2,7
+705,Bassikounou,باسكنو,5,moughataa,2,7
+706,Djiguéni,جيكني,6,moughataa,2,7
+801,Aïoun el Atrouss,لعيون,1,moughataa,2,8
+802,Tamchekett,تامشكط,2,moughataa,2,8
+803,Tintane,تِنطان,3,moughataa,2,8
+804,Kobenni,كوبني,4,moughataa,2,8
+901,Akjoujt,أكجوجت,1,moughataa,2,9
+902,Bennichab,بنشاب,2,moughataa,2,9
+1001,Ksar,لكصر,1,moughataa,2,10
+1002,Toujounine,توجنين,2,moughataa,2,10
+1003,Dar Naim,دار النعيم,3,moughataa,2,10
+1004,Teyarett,تيارت,4,moughataa,2,10
+1005,Tevragh-Zeina,تفرغ زينه,5,moughataa,2,10
+1006,El Mina,الميناء,6,moughataa,2,10
+1007,Arafat,عرفات,7,moughataa,2,10
+1008,Sebkha,السبخة,8,moughataa,2,10
+1009,Riyad,الرياض,9,moughataa,2,10
+1101,Tidjikja,تجكجة,1,moughataa,2,11
+1102,Tichitt,تيشيت,2,moughataa,2,11
+1103,Moudjeria,المجرية,3,moughataa,2,11
+1201,Zouérate,ازويرات,1,moughataa,2,12
+1202,F’derik,فديرك,2,moughataa,2,12
+1203,Bir Moghrein,بير أم اكرين,3,moughataa,2,12
+1301,Rosso,روصو,1,moughataa,2,13
+1302,Boutilimit,بوتلميت,2,moughataa,2,13
+1303,Keur-Macène,كرمسين,3,moughataa,2,13
+1304,Mederdra,المذرذرة,4,moughataa,2,13
+1305,R’Kiz,اركيز,5,moughataa,2,13
+1306,Ouad Naga,واد الناقة,6,moughataa,2,13

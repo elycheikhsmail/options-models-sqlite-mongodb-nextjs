@@ -1,0 +1,40 @@
+id,name,nameAr,priority,tag,depth,parentID
+1,Vente,بيع,1,typeAnnonce,1,
+2,Location,ايجار,1,typeAnnonce,1,
+3,Service,خدمة,1,typeAnnonce,1,
+4,autre,آخر,1,typeAnnonce,1,
+5,"tel,informatique,MLTD",هواتف،معوماتية،ميلتي ميديا,1,categorie,2,1
+6,Maisons,عقارات,1,categorie,2,1
+7,voitures,سيارات,1,categorie,2,1
+8,autre categorie,تصنيفات أخري,1,categorie,2,1
+9,Maisons,عقارات,1,,2,2
+10,voitures,سيارات,1,,2,2
+11,autre categorie,تصنيفات أخري,1,,2,2
+12,service de reparation,خدمة التصليح,1,,2,3
+13,reparation des pannes electriaue,اصلاح اعطال الكهرباء,1,,3,12
+14,reparation de la plomberie,اصلاح مشاكل شبكة الماء,1,,3,12
+15,Service de nettoyage,خدمة التنظيف,1,,2,3
+16,Service d'enseignement,خدمة التدريس,1,,2,3
+17,autre services,خدمات اخري,1,,2,3
+18,Appart(s),شقة او شقق,1,,3,6
+19,Maison(s),منزل او منازل,1,,3,6
+20,Terrain(s),قطعة او قطع ارضية,1,,3,6
+21,autre sous categorie,تصنيفات فرعية اضافية,1,,3,6
+22,telephone,هاتف,1,,3,5
+23,ordinateur portable,كومبيوتر محمول,1,,3,5
+24,autres sous categories,تصنيفات فرعية اخري,1,,3,5
+25,voiture,سيارة,1,,3,7
+26,camion,شاحنة,1,,3,7
+27,citern,صهريج,1,,3,7
+28,autres sous categories,تصنيفات فرعية اضافية,1,,3,7
+29,maison,منزل,1,,3,9
+30,maison meublée,منزل مفروش,1,,3,9
+31,appartement,شقة,1,,3,9
+32,appartement meublée,شقة مفروشة,1,,3,9
+33,magasain,مخزن,1,,3,9
+34,boutique,بوتيك(حانوت),1,,3,9
+35,voiture,سيارة,1,,3,10
+36,"engins, camion",آليات، شاحنات,1,,3,10
+37,autres sous categorie,تصنيفات فرعية اضافية,1,,3,10
+38,distribution d'eau,توزيع الماء,1,,2,3
+39,demande,طلب,1,,1,
